@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there, I'm Hasan Türkmen 👋
 
 🗣  I'm an Senior .Net Developer and Python Developer.
 
