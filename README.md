@@ -1,6 +1,7 @@
 # Hi there, I'm Hasan Türkmen 👋
 
-🗣  I'm an Senior .Net Developer and Python Developer.
+🗣  I'm an Senior Software Engineer.
+
 
 💻 I will always strive to learn and teach.
 
